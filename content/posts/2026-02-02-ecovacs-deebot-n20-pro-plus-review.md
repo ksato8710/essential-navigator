@@ -5,6 +5,7 @@ date: "2026-02-02"
 category: "robot-vacuum"
 categoryName: "ロボット掃除機"
 description: "ECOVACS DEEBOT N20 PRO PLUSを楽天口コミ1,760件超とマイベスト実機検証データで徹底分析。8,000Pa吸引力、紙パック不要のサイクロン式、LiDARマッピング搭載で3万円台。メリット・デメリット・競合比較・初期設定のコツまで完全解説。"
+image: "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=420&fit=crop"
 readTime: 19
 ---
 

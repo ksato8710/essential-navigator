@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "air-purifier"
 categoryName: "空気清浄機"
 description: "「冬の乾燥対策に加湿器が欲しいけど、加湿空気清浄機とどっちがいいの？」 この疑問を持つ方は非常に多いです。特に象印 EE-DF50（スチーム式加湿器）とシャープ KC-S50（加湿空気清浄機）は、どちらも2万円台前半の価 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=420&fit=crop"
 readTime: 15
 ---
 

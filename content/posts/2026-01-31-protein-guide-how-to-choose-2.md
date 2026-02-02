@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "protein"
 categoryName: "プロテイン"
 description: "「プロテインを飲み始めたいけど、種類が多すぎて何を選べばいいかわからない」「ホエイとソイの違いって？」——そんな疑問を持つ方は少なくありません。 この記事では、プロテインの種類・選び方のポイント・目的別のおすすめを体系的 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1532384748853-8f54a8f476e2?w=800&h=420&fit=crop"
 readTime: 19
 ---
 

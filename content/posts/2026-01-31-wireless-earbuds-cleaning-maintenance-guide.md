@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "wireless-earphones"
 categoryName: "ワイヤレスイヤホン"
 description: "ワイヤレスイヤホンの正しい掃除方法を5ステップで解説。メッシュのブラッシング、イヤーピースの素材別お手入れ、充電ケースの接点清掃まで。掃除の頻度目安、NG行為、おすすめクリーニンググッズも紹介。"
+image: "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&h=420&fit=crop"
 readTime: 20
 ---
 

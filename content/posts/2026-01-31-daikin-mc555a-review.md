@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "air-purifier"
 categoryName: "空気清浄機"
 description: "ダイキン MC555Aストリーマ空気清浄機の楽天口コミ900件超を徹底分析。コンパクト設計・静音性・花粉16種対応のメリットと、加湿なし・Wi-Fi非対応のデメリットを正直にレビュー。2026年花粉対策に最適な一台の実力を解説します。"
+image: "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=800&h=420&fit=crop"
 readTime: 15
 ---
 

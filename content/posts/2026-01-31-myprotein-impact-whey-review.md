@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "protein"
 categoryName: "プロテイン"
 description: "マイプロテイン Impact ホエイプロテインの楽天口コミ3500件超を徹底分析。コスパ・タンパク質含有率・人気フレーバー・ザバスとの比較まで、購入前に知りたい情報を網羅的にレビューします。"
+image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=800&h=420&fit=crop"
 readTime: 12
 ---
 

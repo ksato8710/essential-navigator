@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "mobile-battery"
 categoryName: "モバイルバッテリー"
 description: "「モバイルバッテリー、最近すぐ充電がなくなる…」「買って1年なのにもう劣化してる？」そんな経験はありませんか？ 実は、モバイルバッテリーの寿命は使い方と保管方法で大きく変わります。正しく扱えば3〜5年使えるバッテリーも、 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=420&fit=crop"
 readTime: 16
 ---
 

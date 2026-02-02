@@ -5,6 +5,7 @@ date: "2026-02-02"
 category: "robot-vacuum"
 categoryName: "ロボット掃除機"
 description: "SwitchBot K10+ Proを楽天・Amazon・マイベストの口コミで徹底分析。世界最小級の直径24.8cmがもたらすメリット・デメリット、ECOVACS DEEBOT N20 PRO PLUSとの比較、向いている人・向いていない人を明確に解説。"
+image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=420&fit=crop"
 readTime: 14
 ---
 

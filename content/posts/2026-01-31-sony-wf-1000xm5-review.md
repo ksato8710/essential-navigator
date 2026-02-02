@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "wireless-earphones"
 categoryName: "ワイヤレスイヤホン"
 description: "Sony WF-1000XM5とは？完全ワイヤレスイヤホンの最高峰 「ワイヤレスイヤホンが欲しいけど、どれを選べば失敗しないんだろう？」「ノイズキャンセリングって本当に効果あるの？」 そんな悩みを持つ方にぜひ知っていただ … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=800&h=420&fit=crop"
 readTime: 13
 ---
 

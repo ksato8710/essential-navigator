@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "air-purifier"
 categoryName: "空気清浄機"
 description: "ブルーエア Blue Max 3250の楽天レビュー1,000件超を徹底分析。HEPASilentテクノロジーで0.1μmまでの微粒子を99.97%除去、弱モード26.2dBの静音性、北欧デザインの着せ替えプレフィルター。花粉シーズン前に知っておきたいメリット・デメリット、競合比較、3250と325"
+image: "https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=800&h=420&fit=crop"
 readTime: 13
 ---
 

@@ -5,6 +5,7 @@ date: "2026-02-01"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "2026年は2月上旬からスギ花粉の飛散開始。東日本では例年を大幅に上回る予測です。飛散予測カレンダーと今すぐ始める7つの対策チェックリストで、花粉シーズンの準備を万全にしましょう。"
+image: "https://images.unsplash.com/photo-1604147706283-d7119b5b822c?w=800&h=420&fit=crop"
 readTime: 18
 ---
 

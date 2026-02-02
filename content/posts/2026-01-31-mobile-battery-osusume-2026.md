@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "mobile-battery"
 categoryName: "モバイルバッテリー"
 description: "外出先でスマホの充電が切れる不安、誰もが経験したことがあるのではないでしょうか。 モバイルバッテリーは種類が多すぎて「結局どれを選べばいいの？」と迷いがち。容量、重さ、充電速度、価格…チェックポイントが多く、比較が大変で … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1526406915894-7bcd65f60845?w=800&h=420&fit=crop"
 readTime: 19
 ---
 

@@ -5,6 +5,7 @@ date: "2025-03-23"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "ノートパソコンを選ぶ際、多くの方が「軽さ」と「性能」のバランスで悩まれるのではないでしょうか。特に毎日持ち運ぶビジネスユーザーや学生の方にとって、パソコンの重量は非常に重要な選択基準です。かといって、性能が低いと日常作業 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=420&fit=crop"
 readTime: 10
 ---
 

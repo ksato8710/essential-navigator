@@ -5,6 +5,7 @@ date: "2025-04-06"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "いざというときのために！防災準備に欠かせない3つのおすすめアイテム徹底比較 災害大国である日本では、いつ起こるかわからない自然災害に備えることが非常に重要です。近年の大規模地震や水害の発生を受け、家庭での防災意識も高まっ … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&h=420&fit=crop"
 readTime: 24
 ---
 

@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "バレンタインデーまで、あと約2週間。 「今年こそは気の利いたチョコを贈りたい」「渡すタイミングが分からなくて毎年モジモジしてしまう」──そんな方、意外と多いのではないでしょうか？ この記事では、2026年のバレンタイン最 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&h=420&fit=crop"
 readTime: 7
 ---
 

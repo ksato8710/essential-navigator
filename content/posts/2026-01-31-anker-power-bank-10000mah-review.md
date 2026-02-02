@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "mobile-battery"
 categoryName: "モバイルバッテリー"
 description: "Anker Power Bank (10000mAh, 22.5W) を楽天レビュー1300件超から徹底分析。メリット・デメリット、競合比較、おすすめの人を解説。¥3,490で22.5W急速充電対応のコスパ最強モバイルバッテリー。"
+image: "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&h=420&fit=crop"
 readTime: 8
 ---
 

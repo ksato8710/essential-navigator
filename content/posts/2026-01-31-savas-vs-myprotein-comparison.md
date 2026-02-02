@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "protein"
 categoryName: "プロテイン"
 description: "プロテイン選びで必ず候補に挙がるザバス（SAVAS）とマイプロテイン（Myprotein）。「結局どっちがいいの？」と悩んでいる方は多いのではないでしょうか。 この記事では、楽天口コミ合計3,000件以上のデータと、両ブ … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&h=420&fit=crop"
 readTime: 16
 ---
 

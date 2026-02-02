@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "wireless-earphones"
 categoryName: "ワイヤレスイヤホン"
 description: "ワイヤレスイヤホンの選び方を初心者向けに徹底解説。ノイズキャンセリング・音質・装着感・バッテリー・防水・マルチポイント・コーデックの7つのチェックポイントで、あなたに最適な1台が見つかります。"
+image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=420&fit=crop"
 readTime: 14
 ---
 

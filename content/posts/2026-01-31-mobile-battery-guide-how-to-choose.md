@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "mobile-battery"
 categoryName: "モバイルバッテリー"
 description: "モバイルバッテリーの選び方を基礎知識から徹底解説。容量(mAh)、出力(W)、急速充電規格(PD/QC)、ポート種類、重量、パススルー充電、PSEマークなど7つの選定ポイントと、よくある失敗パターンを紹介。目的別おすすめ方向も。"
+image: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&h=420&fit=crop"
 readTime: 18
 ---
 

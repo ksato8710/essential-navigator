@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "air-purifier"
 categoryName: "空気清浄機"
 description: "2026年の花粉シーズン到来！シャープ・ブルーエア・レボイトなど人気7機種を適用畳数・フィルター性能・静音性・ランニングコストで徹底比較。シーン別おすすめ診断チャートつき。"
+image: "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=420&fit=crop"
 readTime: 35
 ---
 

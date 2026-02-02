@@ -5,6 +5,7 @@ date: "2026-02-01"
 category: "dehumidifier"
 categoryName: "除湿機"
 description: "シャープ CV-S71はA4サイズのコンパクトボディにプラズマクラスター7000を搭載した衣類乾燥除湿機。楽天口コミ500件超・評価4.45の実力を、メリット・デメリット・競合比較で徹底分析します。"
+image: "https://images.unsplash.com/photo-1504253163759-c23fccaebb55?w=800&h=420&fit=crop"
 readTime: 13
 ---
 

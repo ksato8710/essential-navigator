@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "2026年春の新生活に向けて、一人暮らしに必要な家電セットを徹底比較。中古セット・新品セット・単品購入の費用シミュレーション付き。冷蔵庫・洗濯機・電子レンジ・炊飯器・ケトル・掃除機のおすすめも紹介。"
+image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=420&fit=crop"
 readTime: 18
 ---
 

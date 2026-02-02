@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "電気毛布の正しい使い方・洗い方を徹底解説。敷き方の正しい位置、温度設定のコツ、低温やけど防止策、洗濯機での洗い方、電気代の計算方法まで。月100円以下で使える最強コスパ暖房の完全ガイド。"
+image: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&h=420&fit=crop"
 readTime: 15
 ---
 

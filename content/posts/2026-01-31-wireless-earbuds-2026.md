@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "wireless-earphones"
 categoryName: "ワイヤレスイヤホン"
 description: "2026年最新のワイヤレスイヤホンおすすめ8選を徹底比較。ノイズキャンセリング・音質・バッテリー・装着感・防水性能を基準に、楽天市場で人気の高評価モデルを厳選。1,000円〜6,980円の価格帯から、あなたにぴったりの1台が見つかります。"
+image: "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=800&h=420&fit=crop"
 readTime: 16
 ---
 

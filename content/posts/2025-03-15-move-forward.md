@@ -5,6 +5,7 @@ date: "2025-03-15"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "イントロダクション 通勤や街乗り、週末のサイクリングまで活躍する電動アシスト自転車が今注目を集めています。中でも日本発のE-BikeブランドであるMOVE株式会社の「MOVE FORWARD」シリーズは、折りたたみ可能な … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=420&fit=crop"
 readTime: 128
 ---
 

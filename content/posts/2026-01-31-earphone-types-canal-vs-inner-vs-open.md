@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "wireless-earphones"
 categoryName: "ワイヤレスイヤホン"
 description: "カナル型・インナーイヤー型・オープンイヤー型、ワイヤレスイヤホンの3つの装着タイプを7項目で徹底比較。遮音性・音質・装着感・音漏れ・運動適性の違いを解説し、あなたのライフスタイルに最適なタイプが見つかります。"
+image: "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=420&fit=crop"
 readTime: 18
 ---
 

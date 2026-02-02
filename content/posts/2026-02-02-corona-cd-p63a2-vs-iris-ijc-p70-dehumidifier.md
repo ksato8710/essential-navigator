@@ -5,6 +5,7 @@ date: "2026-02-02"
 category: "dehumidifier"
 categoryName: "除湿機"
 description: "衣類乾燥除湿機の定番、コロナ CD-P63A2とアイリスオーヤマ IJC-P70を7つのポイントで徹底比較。楽天口コミ合計6,000件超のデータから、除湿能力・タンク容量・電気代・静音性・コスパまで詳しく分析。あなたにぴったりの1台が見つかります。"
+image: "https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=800&h=420&fit=crop"
 readTime: 15
 ---
 

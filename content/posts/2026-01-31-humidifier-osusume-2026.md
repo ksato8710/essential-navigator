@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "humidifier"
 categoryName: "加湿器"
 description: "冬場の乾燥対策に欠かせない加湿器。しかし「スチーム式」「気化式」「ハイブリッド式」など種類が多く、どれを選べばいいか迷いますよね。 この記事では、衛生面・電気代・静音性・お手入れのしやすさを軸に、楽天で人気の加湿器7機種 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1505577058444-a3dab90d4253?w=800&h=420&fit=crop"
 readTime: 20
 ---
 

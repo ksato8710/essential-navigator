@@ -5,6 +5,7 @@ date: "2026-02-01"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "「電気毛布が欲しいけど、どれを選べばいいかわからない…」「エペイオスの電気毛布って実際どうなの？」そんな疑問をお持ちの方に向けて、楽天で3,000件以上のレビューを集めるEpeios（エペイオス）電気毛布の評価を徹底分析 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=800&h=420&fit=crop"
 readTime: 13
 ---
 

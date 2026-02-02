@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "花粉シーズンが近づくと、外出時のマスクや薬だけでなく、室内の花粉対策も重要になります。実は、家の中にも大量の花粉が入り込んでおり、何も対策をしないと「家にいるのに症状がつらい…」ということに。この記事では、今すぐ始められ … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1604147706283-d7119b5b822c?w=800&h=420&fit=crop"
 readTime: 12
 ---
 

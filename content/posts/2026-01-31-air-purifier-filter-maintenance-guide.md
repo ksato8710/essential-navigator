@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "air-purifier"
 categoryName: "空気清浄機"
 description: "「空気清浄機を買ったけど、フィルターの掃除ってどうすればいいの？」「交換時期の目安がわからない」——そんな疑問をお持ちではありませんか？ 空気清浄機のフィルターは、お手入れを怠ると性能が半減どころか、逆に空気を汚してしま … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=420&fit=crop"
 readTime: 19
 ---
 

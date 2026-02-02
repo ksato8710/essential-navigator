@@ -5,6 +5,7 @@ date: "2026-02-02"
 category: "electronics"
 categoryName: "家電・ガジェット"
 description: "加湿器選びで失敗しない7つのポイントを解説。スチーム式・気化式・ハイブリッド式・超音波式の違い、適用畳数の選び方、電気代の比較、お手入れの手間まで。楽天口コミ数万件の分析をもとに、あなたの生活スタイルに最適な1台が見つかる完全ガイド。"
+image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=420&fit=crop"
 readTime: 20
 ---
 

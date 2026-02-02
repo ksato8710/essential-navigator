@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "air-purifier"
 categoryName: "空気清浄機"
 description: "シャープ KC-S50（プラズマクラスター7000搭載加湿空気清浄機）を楽天レビュー4000件超のデータから徹底分析。公式スペック・メリデメ・花粉対策性能・電気代・競合比較を網羅。花粉シーズンに最適な1台を選ぶ参考に。"
+image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=420&fit=crop"
 readTime: 14
 ---
 

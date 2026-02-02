@@ -5,6 +5,7 @@ date: "2026-02-02"
 category: "dehumidifier"
 categoryName: "除湿機"
 description: "衣類乾燥除湿機の選び方を7つのポイントで完全解説。コンプレッサー式・デシカント式・ハイブリッド式の違い、適正な除湿能力の計算方法、電気代比較、騒音レベル、お手入れのしやすさまで。花粉シーズン・梅雨の部屋干し対策に失敗しないための完全ガイド。"
+image: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=800&h=420&fit=crop"
 readTime: 17
 ---
 

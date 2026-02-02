@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "mobile-battery"
 categoryName: "モバイルバッテリー"
 description: "2026年最新のモバイルバッテリーおすすめ7選を徹底比較。容量・重量・急速充電・価格を一覧比較表で分かりやすく解説。通勤用の超軽量103gモデルから防災用50000mAh大容量まで、シーン別のベストな1台が見つかります。すべてPSE認証済みで安心。"
+image: "https://images.unsplash.com/photo-1585338107529-13afc5f02586?w=800&h=420&fit=crop"
 readTime: 17
 ---
 

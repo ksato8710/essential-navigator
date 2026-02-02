@@ -5,6 +5,7 @@ date: "2025-03-23"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "おしゃれで機能的な家庭用コーヒーメーカー比較ガイド【2025年最新版】 こんにちは、コーヒー愛好家の皆さん。今回は、2025年最新のおしゃれで機能的な家庭用コーヒーメーカーをピックアップしてご紹介します。毎日の一杯を格別 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&h=420&fit=crop"
 readTime: 3
 ---
 

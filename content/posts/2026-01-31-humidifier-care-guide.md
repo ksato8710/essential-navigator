@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "humidifier"
 categoryName: "加湿器"
 description: "「加湿器を毎日使っているけれど、正しいお手入れ方法がわからない」「タンクの中がヌメヌメしてきた…」「加湿器から変なニオイがする」——冬場の必需品である加湿器ですが、正しく使わないと雑菌やカビの温床になってしまうことをご存 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&h=420&fit=crop"
 readTime: 16
 ---
 

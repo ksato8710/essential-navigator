@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "humidifier"
 categoryName: "加湿器"
 description: "象印のスチーム式加湿器 EE-DF50を徹底レビュー。フィルター不要・お手入れ簡単・清潔な蒸気の3拍子が揃った人気モデルの実力を、楽天口コミ分析とスペック比較で徹底解説します。"
+image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&h=420&fit=crop"
 readTime: 15
 ---
 

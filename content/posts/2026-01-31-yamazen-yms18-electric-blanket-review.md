@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "楽天レビュー4,054件・評価4.37の山善 電気敷毛布 YMS-18を徹底分析。2,480円で丸洗い対応・ダニ対策・3段階温度調節。1時間の電気代わずか約0.4円のコスパ最強電気毛布のリアルな評価をお届けします。"
+image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800&h=420&fit=crop"
 readTime: 13
 ---
 

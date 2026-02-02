@@ -5,6 +5,7 @@ date: "2026-01-30"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "2026年の花粉シーズンに備えて、空気清浄機・鼻うがい・外出防護・室内対策・アロマの5カテゴリからおすすめグッズ15選を厳選。価格・評価・コスパで徹底比較します。"
+image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=420&fit=crop"
 readTime: 25
 ---
 

@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "protein"
 categoryName: "プロテイン"
 description: "2026年に人気のプロテイン7選を徹底比較。ホエイ・ソイ・混合プロテインの違い、初心者向け・女性向け・コスパ重視の選び方、目的別おすすめを詳しく解説します。"
+image: "https://images.unsplash.com/photo-1532384748853-8f54a8f476e2?w=800&h=420&fit=crop"
 readTime: 14
 ---
 

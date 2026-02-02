@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "protein"
 categoryName: "プロテイン"
 description: "「プロテインを始めてみたいけど、種類が多すぎてどれを選べばいいかわからない…」 ドラッグストアやネット通販を見ると、ホエイ・ソイ・カゼイン・WPC・WPI…と聞き慣れない用語がずらり。パッケージを見比べても違いがわからず … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=420&fit=crop"
 readTime: 10
 ---
 

@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "air-purifier"
 categoryName: "空気清浄機"
 description: "空気清浄機の選び方を7つのチェックポイントで徹底解説。HEPAフィルター・適用畳数の正しい読み方・加湿機能の必要性・ランニングコストまで、初めて購入する方にもわかりやすく説明します。花粉シーズンに向けた準備に。"
+image: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&h=420&fit=crop"
 readTime: 17
 ---
 

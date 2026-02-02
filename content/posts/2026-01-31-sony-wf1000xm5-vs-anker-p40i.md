@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "「Sony WF-1000XM5とAnker Soundcore P40i、結局どっちがいいの？」 ワイヤレスイヤホンの購入を検討していると、3万円台の高級モデルと8千円以下のコスパモデルで迷う方は多いのではないでしょう … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=800&h=420&fit=crop"
 readTime: 14
 ---
 

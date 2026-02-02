@@ -5,6 +5,7 @@ date: "2026-02-02"
 category: "dehumidifier"
 categoryName: "除湿機"
 description: "除湿機の選び方に迷っていませんか？コンプレッサー式・デシカント式・ハイブリッド式の3方式の違いから、マイベスト1位の三菱電機など2026年最新おすすめ7選まで、実際の口コミをもとに徹底解説します。"
+image: "https://images.unsplash.com/photo-1515694346937-94d85e39c89e?w=800&h=420&fit=crop"
 readTime: 1
 ---
 

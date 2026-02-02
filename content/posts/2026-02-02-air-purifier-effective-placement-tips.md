@@ -5,6 +5,7 @@ date: "2026-02-02"
 category: "air-purifier"
 categoryName: "空気清浄機"
 description: "空気清浄機は置き場所と使い方で効果が大きく変わります。壁からの距離、エアコンとの位置関係、花粉シーズンの特別対策など、効果を最大化する7つの実践テクニックを解説。2026年花粉飛散予測も踏まえた対策チェックリスト付き。"
+image: "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=800&h=420&fit=crop"
 readTime: 13
 ---
 

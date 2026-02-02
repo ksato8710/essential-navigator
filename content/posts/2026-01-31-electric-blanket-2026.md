@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "電気毛布・電気ブランケットのおすすめ8選を徹底比較！省エネで電気代1時間0.6円〜、洗える・USB対応・コードレスなど人気モデルを厳選。選び方のポイントからシーン別おすすめまで詳しく解説します。"
+image: "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=800&h=420&fit=crop"
 readTime: 21
 ---
 

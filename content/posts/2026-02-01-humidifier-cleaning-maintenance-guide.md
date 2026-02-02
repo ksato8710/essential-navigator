@@ -5,6 +5,7 @@ date: "2026-02-01"
 category: "humidifier"
 categoryName: "加湿器"
 description: "加湿器の掃除方法をタイプ別に解説。スチーム式・超音波式・気化式・ハイブリッド式ごとのお手入れポイント、クエン酸・重曹を使った頑固な水アカ・カビの落とし方、日常のメンテナンススケジュールまで。毎日1〜2分の習慣で加湿器を清潔に保つ方法をご紹介します。"
+image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800&h=420&fit=crop"
 readTime: 20
 ---
 

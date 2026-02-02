@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "dehumidifier"
 categoryName: "除湿機"
 description: "アイリスオーヤマ IJC-P70の楽天レビュー4500件超を徹底分析。1万円台で7.3L/日の除湿能力を持つコスパ最強の衣類乾燥除湿機のメリット・デメリット、コロナ CD-P63A2との比較、効果的な使い方を解説。"
+image: "https://images.unsplash.com/photo-1501630834273-4b5604d2ee31?w=800&h=420&fit=crop"
 readTime: 14
 ---
 

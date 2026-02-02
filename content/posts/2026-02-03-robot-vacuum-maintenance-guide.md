@@ -5,6 +5,7 @@ date: "2026-02-03"
 category: "robot-vacuum"
 categoryName: "ロボット掃除機"
 description: "ロボット掃除機の吸引力が落ちた？それはメンテナンス不足かも。ダストボックス・フィルター・ブラシ・センサー・車輪のパーツ別お手入れ方法と頻度を徹底解説。消耗品の交換時期・費用目安も紹介。"
+image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=420&fit=crop"
 readTime: 14
 ---
 

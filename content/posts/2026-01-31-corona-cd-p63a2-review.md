@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "dehumidifier"
 categoryName: "除湿機"
 description: "コロナ CD-P63A2を楽天レビュー2,000件超のデータをもとに徹底分析。日本製で2万円以下のコスパ最強衣類乾燥除湿機の実力を、メリット・デメリット・競合比較・FAQまで完全解説します。"
+image: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=800&h=420&fit=crop"
 readTime: 13
 ---
 

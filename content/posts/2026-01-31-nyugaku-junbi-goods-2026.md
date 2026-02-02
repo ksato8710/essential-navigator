@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "2026年春の小学校入学に向けて、文房具・筆箱・お名前シール・レッスンバッグ・鉛筆・防犯ブザーなど必需品を完全網羅。カテゴリ別におすすめアイテムを比較、費用の目安・準備スケジュールもご紹介します。"
+image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?w=800&h=420&fit=crop"
 readTime: 18
 ---
 

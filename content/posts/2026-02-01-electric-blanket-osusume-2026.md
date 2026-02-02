@@ -5,6 +5,7 @@ date: "2026-02-01"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "「電気毛布が欲しいけど、種類が多すぎてどれを選べばいいかわからない…」そんな悩みを抱えていませんか？ この記事では、楽天市場で口コミ合計2万件超の人気電気毛布7製品を、タイプ・サイズ・電気代・肌触りなど多角的に比較しまし … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&h=420&fit=crop"
 readTime: 21
 ---
 

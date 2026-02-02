@@ -5,6 +5,7 @@ date: "2026-02-02"
 category: "robot-vacuum"
 categoryName: "ロボット掃除機"
 description: "ECOVACS DEEBOT N20 PRO PLUS vs Roborock Qrevo C、どちらを選ぶべき？マイベスト実機検証データと楽天口コミ3,000件超の分析で、コスパ重視のECOVACSと完成度重視のRoborockを5つのポイントで徹底比較。価格差25,000円をどう考えるかが判断の"
+image: "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&h=420&fit=crop"
 readTime: 12
 ---
 

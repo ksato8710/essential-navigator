@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "humidifier"
 categoryName: "加湿器"
 description: "「加湿器が欲しいけど、スチーム式・超音波式・気化式・ハイブリッド式…種類が多すぎてどれを選べばいいかわからない」 そんな悩みをお持ちの方は少なくありません。実は加湿方式の違いこそが、電気代・衛生面・静音性・加湿力のすべて … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=420&fit=crop"
 readTime: 14
 ---
 

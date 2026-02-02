@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "protein"
 categoryName: "プロテイン"
 description: "「プロテインを始めたいけど、どれを選べばいいかわからない」「ザバスが定番って聞くけど、本当においしいの？」そんな疑問をお持ちの方は多いのではないでしょうか。 明治ザバス ホエイプロテイン100 リッチショコラ味は、楽天市 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=420&fit=crop"
 readTime: 12
 ---
 

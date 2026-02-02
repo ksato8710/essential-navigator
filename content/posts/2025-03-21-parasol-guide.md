@@ -5,6 +5,7 @@ date: "2025-03-21"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "日傘とは？紫外線対策に欠かせない理由 夏の強い日差しから肌を守る日傘は、紫外線(UV)を防ぎ日焼けや熱中症対策に役立つ重要なアイテムです。太陽光に含まれるUVは肌老化（シミ・シワ）の原因となるため、日焼け止めと併用して日 … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1506152983158-b4a74a01c721?w=800&h=420&fit=crop"
 readTime: 16
 ---
 

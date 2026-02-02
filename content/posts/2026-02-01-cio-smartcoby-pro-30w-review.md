@@ -5,6 +5,7 @@ date: "2026-02-01"
 category: "mobile-battery"
 categoryName: "モバイルバッテリー"
 description: "「CIO SMARTCOBY Pro 30Wって実際どうなの？」「コンパクトなのに本当にノートPCも充電できる？」 モバイルバッテリー選びで悩む方は多いですよね。CIO SMARTCOBY Pro 30Wは、クラウドファ … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&h=420&fit=crop"
 readTime: 12
 ---
 

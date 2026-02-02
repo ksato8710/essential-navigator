@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "protein"
 categoryName: "プロテイン"
 description: "プロテインを飲むベストタイミングは？1回の量は？水と牛乳どちらで割る？運動後・朝・就寝前の効果的な飲み方から、初心者がやりがちなNG飲み方まで、目的別（筋トレ・ダイエット・健康維持）に徹底解説します。"
+image: "https://images.unsplash.com/photo-1576402187878-974f67f3c8d0?w=800&h=420&fit=crop"
 readTime: 19
 ---
 

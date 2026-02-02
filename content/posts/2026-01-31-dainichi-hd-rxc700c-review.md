@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "humidifier"
 categoryName: "加湿器"
 description: "「加湿器が欲しいけど、お手入れが面倒…」「ハイブリッド式って実際どうなの？」そんな悩みをお持ちの方に注目していただきたいのが、ダイニチ HD-RXC700Cです。 ダイニチ工業は加湿器の国内累計生産台数トップクラスのメー … [続きを読む](https://essential-navigator.c"
+image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&h=420&fit=crop"
 readTime: 16
 ---
 

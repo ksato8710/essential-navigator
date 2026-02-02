@@ -5,6 +5,7 @@ date: "2026-01-31"
 category: "dehumidifier"
 categoryName: "除湿機"
 description: "冬の部屋干し問題を解決！衣類乾燥除湿機おすすめ7選を除湿能力・電気代・静音性で徹底比較。コンプレッサー式とデシカント式の違い、部屋の広さ別おすすめも解説。"
+image: "https://images.unsplash.com/photo-1515694346937-94d85e39c89e?w=800&h=420&fit=crop"
 readTime: 11
 ---
 

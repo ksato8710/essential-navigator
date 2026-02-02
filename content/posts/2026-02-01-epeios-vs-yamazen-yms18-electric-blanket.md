@@ -5,6 +5,7 @@ date: "2026-02-01"
 category: "seasonal"
 categoryName: "季節・暮らし"
 description: "楽天で大人気のEpeios電気毛布と山善YMS-18を7つのポイントで徹底比較。サイズ・温度調節・タイマー・電気代・肌触り・コスパ・口コミ評価をデータで比較し、あなたに最適な1枚を見つけます。"
+image: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&h=420&fit=crop"
 readTime: 16
 ---
 

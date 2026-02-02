@@ -5,6 +5,7 @@ date: "2026-02-01"
 category: "humidifier"
 categoryName: "加湿器"
 description: "加湿器の4つの方式（スチーム式・気化式・ハイブリッド式・超音波式）を加湿力・電気代・安全性・お手入れなど7項目で徹底比較。あなたの暮らしに最適な加湿方式がわかります。"
+image: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&h=420&fit=crop"
 readTime: 19
 ---
 
