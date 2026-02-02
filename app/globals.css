@@ -1,26 +1,51 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* Article content styles - Wirecutter inspired */
+.article-content {
+  @apply text-slate-300 leading-relaxed;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.article-content h2 {
+  @apply text-xl font-bold text-white mt-10 mb-4 pb-2 border-b border-slate-800;
 }
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.article-content h3 {
+  @apply text-lg font-bold text-white mt-8 mb-3;
+}
+.article-content h4 {
+  @apply text-base font-semibold text-slate-200 mt-6 mb-2;
+}
+.article-content p {
+  @apply mb-4 text-[15px] leading-7;
+}
+.article-content ul, .article-content ol {
+  @apply mb-4 pl-6;
+}
+.article-content li {
+  @apply mb-2 text-[15px] leading-7;
+}
+.article-content ul li {
+  @apply list-disc;
+}
+.article-content ol li {
+  @apply list-decimal;
+}
+.article-content blockquote {
+  @apply border-l-4 border-blue-500 pl-4 my-6 text-slate-400 italic;
+}
+.article-content a {
+  @apply text-blue-400 hover:text-blue-300 underline underline-offset-2;
+}
+.article-content strong {
+  @apply text-white font-semibold;
+}
+.article-content table {
+  @apply w-full border-collapse mb-6 text-sm;
+}
+.article-content th {
+  @apply bg-slate-800 text-slate-300 font-semibold text-left px-3 py-2 border border-slate-700;
+}
+.article-content td {
+  @apply px-3 py-2 border border-slate-700/50;
 }
