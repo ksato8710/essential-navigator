@@ -68,7 +68,10 @@ export default function Home() {
                           <span className="text-5xl opacity-20">{icon}</span>
                         </div>
                       )}
-                      <div className="absolute top-3 left-3">
+                      <div className="absolute top-3 left-3 flex gap-1.5">
+                        <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-amber-500/20 text-amber-400">
+                          🏆 おすすめ
+                        </span>
                         <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full"
                               style={{ backgroundColor: color + '22', color }}>
                           {label}
