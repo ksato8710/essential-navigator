@@ -239,6 +239,19 @@ VALXのプロテインは大きく2つのラインがあります。
 
 ---
 
+## 購入はどこがお得？
+
+| ショップ | 価格（1kg） | 備考 |
+|---------|:-----------:|------|
+| **楽天市場** | 5,480円 | ポイント還元が大きい。[楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00tli8j.hk305ea9.g00tli8j.hk3065b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvalx%2Fv004001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvalx%2Fi%2F10000057%2F&rafcid=wsc_i_is_1005382698954372332) |
+| **Amazon** | 約4,900円 | タイムセール時はさらに安くなることも |
+| **公式サイト** | 5,180円 | 定期購入で割引あり |
+| **2kgセット（楽天）** | 10,480円（5,240円/kg） | まとめ買いが最安。[楽天で見る](https://hb.afl.rakuten.co.jp/hgc/g00tli8j.hk305ea9.g00tli8j.hk3065b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvalx%2Fv004100%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvalx%2Fi%2F10000069%2F&rafcid=wsc_i_is_1005382698954372332) |
+
+**おすすめ：** 楽天スーパーセール・お買い物マラソン時に2kgセットを購入するのが最もお得。ポイント還元込みで実質4,000円台/kgも可能です。
+
+---
+
 ### 関連記事
 
 - [プロテインの選び方完全ガイド｜初心者が失敗しない5つのポイント](/posts/protein-guide-how-to-choose)
