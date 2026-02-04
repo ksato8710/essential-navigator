@@ -28,6 +28,7 @@ export const CATEGORIES: Record<string, { label: string; color: string; icon: st
   'case-study': { label: '事例分析', color: '#06B6D4', icon: '📊' },
   'products': { label: 'プロダクトディレクトリ', color: '#6366F1', icon: '🏷️' },
   'analysis': { label: '深掘り・実践', color: '#8B5CF6', icon: '🎯' },
+  'review': { label: '評価・検証', color: '#F59E0B', icon: '📝' },
 };
 
 export function getAllPosts(): Post[] {
