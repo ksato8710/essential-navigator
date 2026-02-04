@@ -20,21 +20,14 @@ export interface Post {
 }
 
 export const CATEGORIES: Record<string, { label: string; color: string; icon: string }> = {
-  'robot-vacuum': { label: 'ロボット掃除機', color: '#3B82F6', icon: '🤖' },
-  'dehumidifier': { label: '除湿機', color: '#06B6D4', icon: '💧' },
-  'humidifier': { label: '加湿器', color: '#8B5CF6', icon: '💨' },
-  'air-purifier': { label: '空気清浄機', color: '#10B981', icon: '🌬️' },
-  'wireless-earphones': { label: 'ワイヤレスイヤホン', color: '#F59E0B', icon: '🎧' },
-  'mobile-battery': { label: 'モバイルバッテリー', color: '#EF4444', icon: '🔋' },
-  'protein': { label: 'プロテイン', color: '#22C55E', icon: '💪' },
-  'electric-blanket': { label: '電気毛布', color: '#F97316', icon: '🛏️' },
-  'electronics': { label: '家電・ガジェット', color: '#6366F1', icon: '⚡' },
-  'lifestyle': { label: '生活・暮らし', color: '#EC4899', icon: '🏠' },
-  'health-fitness': { label: '健康・フィットネス', color: '#14B8A6', icon: '🏃' },
-  'kafunsho': { label: '花粉症対策', color: '#A855F7', icon: '🌸' },
-  'seasonal': { label: '季節・暮らし', color: '#F43F5E', icon: '🗓️' },
-  'nyugaku': { label: '入学準備', color: '#0EA5E9', icon: '🎒' },
-  'shinseikatsu': { label: '新生活準備', color: '#84CC16', icon: '🌱' },
+  'morning-news': { label: '朝のAIニュース', color: '#F97316', icon: '🌅' },
+  'noon-news': { label: '昼のニュース', color: '#EAB308', icon: '🕐' },
+  'evening-news': { label: '夕刊AIニュース', color: '#8B5CF6', icon: '🌆' },
+  'tools': { label: 'プロダクトニュース', color: '#3B82F6', icon: '🛠️' },
+  'deep-dive': { label: '開発・実践', color: '#10B981', icon: '🔬' },
+  'case-study': { label: '事例分析', color: '#06B6D4', icon: '📊' },
+  'products': { label: 'プロダクトディレクトリ', color: '#6366F1', icon: '🏷️' },
+  'analysis': { label: '深掘り・実践', color: '#8B5CF6', icon: '🎯' },
 };
 
 export function getAllPosts(): Post[] {
