@@ -1,6 +1,6 @@
 ---
 title: "ソロビルダー3つ星ツール — プロフィール画像・SEO・バックエンド生成"
-slug: "noon-tools-spotlight-2026-02-04"
+slug: "2026-02-04-noon-tools-spotlight"
 date: "2026-02-04"
 category: "noon-news"
 categoryName: "昼のニュース"
