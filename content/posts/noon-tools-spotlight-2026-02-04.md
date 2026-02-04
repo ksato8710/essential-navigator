@@ -1,11 +1,12 @@
 ---
-slug: noon-tools-spotlight-2026-02-04
-title: ソロビルダー3つ星ツール — プロフィール画像・SEO・バックエンド生成
-date: 2026-02-04
-category: noon-news
-description: プロフィール画像生成、SEO最適化、バックエンド自動構築まで幅広くカバーするソロビルダー必携のツールをスポット。
+title: "ソロビルダー3つ星ツール — プロフィール画像・SEO・バックエンド生成"
+slug: "noon-tools-spotlight-2026-02-04"
+date: "2026-02-04"
+category: "noon-news"
+categoryName: "昼のニュース"
+description: "プロフィール画像生成、SEO最適化、バックエンド自動構築まで幅広くカバーするソロビルダー必携のツールをスポット。"
+image: "https://images.unsplash.com/photo-1555421689-491a97ff2040?w=800&h=420&fit=crop"
 readTime: 5
-image: https://images.unsplash.com/photo-1555421689-491a97ff2040?w=800&h=420&fit=crop
 ---
 
 ## なぜこれらのツールが注目されるか
